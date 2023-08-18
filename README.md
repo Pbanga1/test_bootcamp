@@ -16,3 +16,5 @@ _Italic word_
 
 ![picture](Image.jpeg)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFFrpYq1uFr1jJi30zgffeYJlIp_upnpjEQ&usqp=CAU" width="100%" height="100%">
+
+<img src="Image.jpeg" width="100" height="100">
